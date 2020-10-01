@@ -1,2 +1,9 @@
 # tc2025-actividad-6-equipo14
-tc2025-actividad-6-equipo14 created by GitHub Classroom
+##### Christian Alberto Dalma Schultz
+##### Octavio Iván Garduza Labastida 
+
+### How to Run
+
+Es necesario descargar los archivos
+
+
