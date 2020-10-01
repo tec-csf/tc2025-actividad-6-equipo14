@@ -90,7 +90,7 @@ void sigusr1_handler(int signum){
   printf("Actualizando estado [verde] en la consola\n");
   write(snd_socket, &buffer, sizeof(buffer));
   signal(SIGALRM, alarm_handler);
-  alarm(5);
+  alarm(30);
 }
 
 int main(int argc, const char * argv[]){
